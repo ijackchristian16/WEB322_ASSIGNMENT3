@@ -8,7 +8,7 @@
 * 
 *  Name: Isaac Christian Student ID: 137671202 Date: 07/03/2024
 *
-*  Published URL: ___________________________________________________________
+*  Published URL: https://fine-blue-chinchilla-kit.cyclic.app
 *
 ********************************************************************************/
 

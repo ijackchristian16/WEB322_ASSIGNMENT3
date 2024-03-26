@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lego Collection</title>
+  <link rel="stylesheet" href="/css/main.css" />
+
+</head>
+
+<body tabindex="-1">
+
+  <%- include('partials/navbar', {page: '/about'}) %>
+
+  <div class="container mx-auto p-4">
+
+    <div class="hero bg-base-200 rounded-lg p-6">
+      <div class="hero-content text-center ">
+        <div class="max-w-md">
+          <h1 class="text-5xl font-bold">About</h1>
+
+          <p class="py-6">Everything you want to know about me - the designer &amp; developer.</p>
+
+        </div>
+      </div>
+    </div>
+
+    <br />
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div>
+        <img
+          class="w-full rounded-lg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Seneca_College_Markham_Campus_%2821066937924%29.jpg/1600px-Seneca_College_Markham_Campus_%2821066937924%29.jpg?20180430183547"
+          alt="profile"
+        />
+      </div>
+      <div class="prose">
+        <p>
+          I am Isaac, a student at Seneca Markham Campus. Currently, I'm
+          immersed in the WEB 322 class, which has quickly become a favorite
+          of mine. The professor leading the class is exceptional; their
+          teaching style is engaging and insightful, making every session a
+          rewarding experience.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</body>
+
+</html>

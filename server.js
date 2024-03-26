@@ -8,7 +8,7 @@
 * 
 *  Name: Isaac Christian Student ID: 137671202 Date: 26/03/2024
 *
-*  Published URL: 
+*  Published URL: https://fine-blue-chinchilla-kit.cyclic.app
 *
 ********************************************************************************/
 const legoData = require("./modules/legoSets");
